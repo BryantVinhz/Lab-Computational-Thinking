@@ -77,7 +77,7 @@ Lab-Computational-Thinking/
 
 
 ## 9. Link to Video: 
-[https://drive.google.com/drive/folders/19Qdo1xF7iXEZFt3o5xtPYSLb_LPiis-J?usp=sharing]
+[https://drive.google.com/drive/folders/19Qdo1xF7iXEZFt3o5xtPYSLb_LPiis-J?usp=sharing](https://drive.google.com/drive/folders/19Qdo1xF7iXEZFt3o5xtPYSLb_LPiis-J?usp=sharing)
 
 
 
