@@ -42,19 +42,26 @@ git clone <https://github.com/BryantVinhz/Lab-Computational-Thinking>
 
 
 
-
 ## 5. Install requirement dependencies
 ```bash
 pip install -r requirements.txt
 ```
 
 
+## 6. Instructions for running the application
+- Open Lab02.ipynb in VS Code or Jupyter Lab
+- Execute all cells sequentially
+- Result: The server will start on http://0.0.0.0:8000
 
 
-## 6. Running the Application
+## 7. Instructions for calling the API, including example requests and responses
+```
+python test_api.py
+```
 
 
-## 7. Project Structure
+
+## 8. Project Structure
 ```text
 Lab-Computational-Thinking/
 ├── Data/
@@ -69,7 +76,8 @@ Lab-Computational-Thinking/
 ```
 
 
-## 8. Link to Video 
+## 9. Link to Video: 
+[https://drive.google.com/drive/folders/19Qdo1xF7iXEZFt3o5xtPYSLb_LPiis-J?usp=sharing]
 
 
 
