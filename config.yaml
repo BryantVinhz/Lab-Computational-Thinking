@@ -1,0 +1,4 @@
+
+              model_path: "google/vit-base-patch16-224"
+              top_k: 5
+              
