@@ -1,0 +1,156 @@
+[
+  {
+    "id": "G01",
+    "title": "Zurich Old Town (Altstadt & Niederdorf)",
+    "category": "historic",
+    "tags": ["walking", "architecture", "history", "old-town", "niederdorf"],
+    "text": "Zurich's Old Town (Altstadt) stretches on both sides of the Limmat River. Narrow cobblestone streets, medieval guild houses, and small boutiques make it ideal for a half-day walk. The area around Niederdorf is lively in the evening with bars and restaurants",
+    "source": "Lumen Travel Guide – Zurich 2026"
+  },
+  {
+    "id": "G02",
+    "title": "Grossmünster Church",
+    "category": "church",
+    "tags": ["church", "viewpoint", "history", "towers", "landmark"],
+    "text": "Grossmünster is a Romanesque Protestant church famous for its twin towers and role in the Swiss Reformation. Entry to the main nave is free from 10:00 to 18:00 daily, while climbing the 187 steps of the Karlsturm tower for panoramic city views costs 5 CHF for adults and 2 CHF for students.",
+    "source": "Lumen Travel Guide – Zurich 2026"
+  },
+  {
+    "id": "G03",
+    "title": "Fraumünster Church",
+    "category": "church",
+    "tags": ["church", "art", "stained-glass", "history"],
+    "text": "Located across the Limmat River from Grossmünster, Fraumünster is renowned for its five stained-glass windows created by artist Marc Chagall. Admission is 5 CHF per adult including an audio guide, and the church is open daily from 10:00 to 18:00 between March and October (until 17:00 in winter).",
+    "source": "Lumen Travel Guide – Zurich 2026"
+  },
+  {
+    "id": "G04",
+    "title": "Lindenhof Hill Viewpoint",
+    "category": "park",
+    "tags": ["viewpoint", "free", "history", "quiet"],
+    "text": "Lindenhof is a quiet, tree-lined public square situated on a former Roman castle site overlooking the Limmat River and Old Town. Access is completely free 24 hours a day, making it a popular spot for outdoor chess games and sunrise photography.",
+    "source": "Lumen Travel Guide – Zurich 2026"
+  },
+  {
+    "id": "G05",
+    "title": "Bahnhofstrasse Shopping Avenue",
+    "category": "shopping",
+    "tags": ["luxury", "watches", "walking", "city-center"],
+    "text": "Stretching 1.4 kilometers from Zurich Hauptbahnhof (Main Station) to Lake Zurich, Bahnhofstrasse is one of the world's most famous luxury shopping streets for Swiss watches and fashion. Most stores open Monday to Saturday from 09:30 to 20:00 and remain closed on Sundays.",
+    "source": "Lumen Travel Guide – Zurich 2026"
+  },
+  {
+    "id": "G06",
+    "title": "Lake Zurich (Zürichsee)",
+    "category": "lake",
+    "tags": ["lake", "swimming", "promenade", "boat", "summer", "free", "scenic", "relaxation"],
+    "text": "Lake Zurich is the heart of the city. In summer, locals swim at free public baths such as Seebad Enge and Frauenbad Stadthaus. Boat trips depart from Bürkliplatz. The lakeside promenade is perfect for walking and cycling all year.",
+    "source": "Lumen Travel Guide – Zurich 2026"
+  },
+  {
+    "id": "G07",
+    "title": "Uetliberg Mountain (Top of Zurich)",
+    "category": "nature",
+    "tags": ["mountain", "hiking", "viewpoint", "panorama"],
+    "text": "Uetliberg is Zurich’s local mountain (870 m).From the top you get a wide view of the city, lake and Alps on clear days. Visitors can reach the summit in 20 minutes from Zurich Hauptbahnhof via the S10 train (covered by a ZVV Zone 110 + 155 ticket), and climbing the Uto Kulm observation tower costs 2 CHF.",
+    "source": "Lumen Travel Guide – Zurich 2026"
+  },
+  {
+    "id": "G08",
+    "title": "Kunsthaus Zürich (Museum of Fine Arts)",
+    "category": "museum",
+    "tags": ["art", "culture", "indoor", "gallery", "museum", "giacometti"],
+    "text": "Kunsthaus Zürich is the city’s main art museum, with strong collections of Swiss and international modern art, featuring works by Alberto Giacometti, Marc Chagall, Claude Monet, and Vincent van Gogh. Located at Heimplatz 1, it is open Tuesday to Sunday from 10:00 to 18:00 (until 20:00 on Thursdays), with adult tickets at 24 CHF and free admission to the permanent collection on Wednesdays.",
+    "source": "Lumen Travel Guide – Zurich 2026"
+  },
+  {
+    "id": "G09",
+    "title": "Swiss National Museum (Landesmuseum Zürich)",
+    "category": "museum",
+    "tags": ["history", "culture", "indoor", "family"],
+    "text": "Situated right next to Zurich Main Station in a fairytale-like chateau, the Swiss National Museum showcases Swiss cultural history from prehistory to modern times. Opening hours are Tuesday to Sunday from 10:00 to 17:00 (until 19:00 on Thursdays), and adult admission costs 13 CHF while visitors under 16 enter free.",
+    "source": "Lumen Travel Guide – Zurich 2026"
+  },
+  {
+    "id": "G10",
+    "title": "Lindt Home of Chocolate",
+    "category": "museum",
+    "tags": ["chocolate", "food", "interactive", "kilchberg"],
+    "text": "Located in Kilchberg just 20 minutes south of central Zurich via Bus 165 from Bürkliplatz, the Lindt Home of Chocolate features a 9-meter-tall chocolate fountain and interactive exhibits. Tickets cost 17 CHF for adults and 10 CHF for children aged 8 to 15, and advance online booking is required as walk-in slots often sell out.",
+    "source": "Lumen Travel Guide – Zurich 2026"
+  },
+  {
+    "id": "G11",
+    "title": "Niederdorf & Nightlife",
+    "category": "nightlife",
+    "tags": ["nightlife", "bars", "restaurants", "niederdorf", "evening"],
+    "text": "Niederdorf is the lively pedestrian area on the right bank of the Limmat. It is full of restaurants, bars and small clubs. In the evening it becomes the main nightlife zone of the Old Town. Safe and busy until late.",
+    "source": "Lumen Travel Guide – Zurich 2026"
+  },
+  {
+    "id": "G12",
+    "title": "Zoo Zürich and Masoala Rainforest",
+    "category": "zoo",
+    "tags": ["wildlife", "family", "nature", "rainforest"],
+    "text": "Perched on Zürichberg hill and reachable via Tram 6 to the Zoo terminus, Zoo Zürich features over 380 animal species and the indoor Masoala Rainforest hall. The zoo opens daily from 09:00 to 18:00 (until 17:00 from November to February), with online adult day tickets priced at 29 CHF.",
+    "source": "Lumen Travel Guide – Zurich 2026"
+  },
+  {
+    "id": "G13",
+    "title": "Im Viadukt Market Hall",
+    "category": "market",
+    "tags": ["food", "local-produce", "shopping", "zurich-west"],
+    "text": "Built beneath 36 historic railway arches in trendy Zurich-West, Im Viadukt combines independent design boutiques with the Markthalle indoor food market. The Markthalle sells Swiss cheeses, fresh bread, and regional produce Monday to Saturday from 09:00 to 20:00.",
+    "source": "Lumen Travel Guide – Zurich 2026"
+  },
+  {
+    "id": "G14",
+    "title": "Frau Gerolds Garten",
+    "category": "food_and_drink",
+    "tags": ["outdoor-dining", "nightlife", "zurich-west", "urban-garden"],
+    "text": "Located next to Hardbrücke station in Zurich-West, Frau Gerolds Garten is an open-air urban garden built from stacked shipping containers with casual food stalls and art installations. It opens daily from 11:30 until midnight, and in winter it hosts a cozy wooden pavilion serving traditional Swiss cheese fondue.",
+    "source": "Lumen Travel Guide – Zurich 2026"
+  },
+  {
+    "id": "G15",
+    "title": "Café Culture & Coffee",
+    "category": "cafe",
+    "tags": ["cafe", "coffee", "cake", "outdoor", "relax"],
+    "text": "Zurich has a strong café culture. Traditional places serve coffee and cake; newer specialty coffee shops are found in District 4 and around the university. Many cafés offer outdoor seating in summer. Tipping is not obligatory but rounding up is common.",
+    "source": "Lumen Travel Guide – Zurich 2026"
+  },
+  {
+    "id": "G16",
+    "title": "Public Transport (ZVV)",
+    "text": "Zurich's public transport network (ZVV) integrates trams, buses, S-Bahn trains, and local boats under a single zone-based ticket system. Central Zurich falls entirely within Zone 110: a single 1-hour ticket costs 4.60 CHF and a 24-hour Day Pass costs 9.20 CHF. Passengers must buy and validate tickets via the ZVV app or platform machines before boarding.",
+    "source": "Lumen Travel Guide – Zurich 2026"
+  },
+  {
+    "id": "G17",
+    "title": "Zurich Airport (ZRH) to City Center Transfer",
+    "text": "Zurich Airport (Flughafen Zürich, Zone 121) is located 10 kilometers north of downtown. Frequent S-Bahn trains (lines S2, S16, and InterRegio) run every 5 to 10 minutes from the underground airport station to Zurich Hauptbahnhof in 10 to 12 minutes, costing 7.00 CHF for a single Zone 110+121 ticket.",
+    "source": "Lumen Travel Guide – Zurich 2026"
+  },
+  {
+    "id": "G18",
+    "title": "Zurich Drinking Water, Currency, and Tipping Etiquette",
+    "text": "Switzerland uses the Swiss Franc (CHF) rather than the Euro, though contactless cards are accepted almost everywhere. Over 1,200 public fountains across Zurich dispense clean, free, drinkable spring water unless marked 'Kein Trinkwasser'. Service charges are included in restaurant prices by law, so tipping is optional and usually involves rounding up by 5% to 10%.",
+    "source": "Lumen Travel Guide – Zurich 2026"
+  },
+    {
+    "id": "G19",
+    "title": "Polybahn & University Area",
+    "category": "transport",
+    "tags": ["funicular", "viewpoint", "university", "short ride", "historic"],
+    "text": "The historic Polybahn funicular climbs from Central to the ETH Zurich university terrace in one minute. The ride is short and scenic. From the top you can walk to the university buildings and enjoy city views. Tickets are cheap and included in some day passes.",
+    "source": "Lumen Travel Guide – Zurich 2026"
+  },
+    {
+    "id": "G20",
+    "title": "Practical Tips for Visitors",
+    "category": "practical",
+    "tags": ["tips", "safety", "money", "tourist office", "monday"],
+    "text": "Zurich is clean, safe and expensive. Credit cards are widely accepted. Tap water is excellent and free. Many museums close on Mondays. The official tourist office is at the main station. English is widely spoken in tourist areas.",
+    "source": "Lumen Travel Guide – Zurich 2026"
+  }
+]

@@ -18,7 +18,7 @@ def run_tests():
 
     CURRENT_DIR = os.path.dirname(os.path.abspath(__file__))
     print("3. Test POST /predict")
-    image_path = os.path.join(CURRENT_DIR, "Data", "Collie.jpg") 
+    image_path = os.path.join(CURRENT_DIR, "Data", "Dragon.jpg") 
 
     if os.path.exists(image_path):
         with open(image_path, "rb") as img:
